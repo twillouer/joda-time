@@ -248,7 +248,6 @@ abstract class TestGJChronology extends BaseChronology {
     }
 
     /**
-     * @param date days from 0001-01-01
      * @param weekday 0=Sunday, 1=Monday, 2=Tuesday ... 6=Saturday, 7=Sunday
      * @param date days from 0001-01-01, on or before weekday
      */
